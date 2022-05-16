@@ -14,11 +14,6 @@ import java.io.IOException;
 
 public class interactiveGameOriginal extends PApplet {
 
-/*
-格ゲーは断念。シューティングゲームにします。
-やっぱ、迷路ゲームにします。
-
-*/
 final int TITLE = 0;
 final int MENU = 1;
 final int MAINGAME = 2;
